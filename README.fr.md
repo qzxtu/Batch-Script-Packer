@@ -2,13 +2,19 @@
 
 Le processus implique la lecture du contenu d'un fichier cmd/bat et son utilisation pour créer un assembly de console C#, qui est essentiellement une application compilée. Cette application exécutera ensuite les commandes spécifiées dans le fichier en utilisant l'exécution du shell.
 
+## Traduction
+
+| 🇺🇸                 | 🇨🇳                                 | 🇹🇼                                    | 🇮🇳                  | 🇫🇷                      | 🇦🇪                  | 🇩🇪                     | 🇯🇵                     | 🇪🇸                     |
+| -------------------- | ------------------------------------ | --------------------------------------- | --------------------- | ------------------------- | --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| [Anglais](README.md) | [Chinois simplifié](README.zh-CN.md) | [chinois traditionnel](README.zh-TW.md) | [hindi](README.hi.md) | [Française](README.fr.md) | [arabe](README.ar.md) | [Allemand](README.de.md) | [Japonais](README.ja.md) | [Espagnol](README.es.md) |
+
 ## Captures d'écran
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1097791896170020915/New_Website_Blue_Mockup_Instagram_-_Laptop.png)
 
 ## Tests en cours
 
-Pour exécuter des tests
+To run tests
 
 ```text
   Just open it and select your batch file
